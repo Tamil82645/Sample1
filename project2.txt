@@ -1,0 +1,6 @@
+class Project2{
+     public ststic void main(Stirng [] args){
+    
+    System.out.println("this is my second project");
+}
+}
